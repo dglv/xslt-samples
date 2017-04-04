@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalog>
+	<car>
+		<name>LADA</name>
+		<url>http://www.lada.ru</url>
+	</car>
+	<car>
+		<name>BMW</name>
+		<url>http://www.bmw.com</url>
+	</car>
+	<car>
+		<name>Volkswagen</name>
+		<url>http://www.vw.com</url>
+	</car>
+	<car>
+		<name>Toyota</name>
+		<url>http://www.toyota-global.com</url>
+	</car>
+	<car>
+		<name>Jaguar</name>
+		<url>http://www.jaguarlandrover.com</url>
+	</car>
+	<car>
+		<name>Mercedes</name>
+		<url>http://www.mercedes-amg.com</url>
+	</car>
+	<car>
+		<name>Renault</name>
+		<url>http://www.group.renault.com</url>
+	</car>
+		<car>
+		<name>GAZ</name>
+		<url>http://www.gazgroup.ru</url>
+	</car>
+	<car>
+		<name>Chevrolet</name>
+		<url>http://www.chevrolet.com</url>
+	</car>
+		<car>
+		<name>Subaru</name>
+		<url>http://www.subaru.com</url>
+	</car>
+</catalog>
